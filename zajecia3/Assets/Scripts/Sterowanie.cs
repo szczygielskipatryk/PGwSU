@@ -11,7 +11,7 @@ public class Sterowanie : MonoBehaviour
         Rb = GetComponent<Rigidbody>();
     }
 
-    void Update()
+    void FixedUpdate()
     {
         float mH = Input.GetAxis("Horizontal");
         float mV = Input.GetAxis("Vertical");
