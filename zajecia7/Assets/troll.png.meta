@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: c8d17f71d967c71499264a32b981082f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones:
+    - name: bone_4
+      position: {x: 174.06482, y: 479.92523, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6816196, w: 0.73170674}
+      length: 193.75291
+      parentId: -1
+    - name: bone_5
+      position: {x: 193.75293, y: -0.000040233725, z: 0}
+      rotation: {x: 0, y: 0, z: -0.08550728, w: 0.99633753}
+      length: 208.06226
+      parentId: 0
+    - name: bone_6
+      position: {x: -251.38585, y: -651.57806, z: 0}
+      rotation: {x: 0, y: -0, z: 0.9984372, w: 0.0558863}
+      length: 269.83987
+      parentId: 1
+    - name: bone_7
+      position: {x: 186.19841, y: -183.767, z: 0}
+      rotation: {x: 0, y: 0, z: 0.36626545, w: 0.9305104}
+      length: 148.66685
+      parentId: 2
+    - name: bone_8
+      position: {x: -84.2892, y: -282.35822, z: 0}
+      rotation: {x: 0, y: 0, z: 0.014055588, w: 0.99990124}
+      length: 84.82466
+      parentId: 3
+    - name: bone_9
+      position: {x: 397.03903, y: -1155.4711, z: 0}
+      rotation: {x: 0, y: -0, z: -0.9729606, w: 0.23097126}
+      length: 274.95398
+      parentId: 1
+    - name: bone_10
+      position: {x: -99.71629, y: -207.46794, z: 0}
+      rotation: {x: 0, y: 0, z: 0.07970883, w: 0.9968182}
+      length: 146.56578
+      parentId: 5
+    - name: bone_11
+      position: {x: -74.31721, y: -217.41415, z: 0}
+      rotation: {x: 0, y: 0, z: 0.42134863, w: 0.90689874}
+      length: 87.9296
+      parentId: 6
+    - name: bone_12
+      position: {x: 295.26175, y: -367.6314, z: 0}
+      rotation: {x: 0, y: 0, z: -0.07312533, w: 0.9973228}
+      length: 468.4031
+      parentId: 7
+    - name: bone_13
+      position: {x: 167.41734, y: -474.3761, z: 0}
+      rotation: {x: 0, y: -0, z: -0.94319916, w: 0.33222795}
+      length: 168.44458
+      parentId: 0
+    - name: bone_14
+      position: {x: -107.55541, y: 262.78268, z: 0}
+      rotation: {x: 0, y: 0, z: -0.32598594, w: 0.9453746}
+      length: 129.89145
+      parentId: 9
+    - name: bone_15
+      position: {x: 817.2674, y: -397.47836, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6130275, w: 0.7900616}
+      length: 90.30216
+      parentId: 10
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
